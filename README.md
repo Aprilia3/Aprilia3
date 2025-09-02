@@ -3,7 +3,7 @@
 </p>
 
 ```rb
-• Age : 15 y.o
+• Age : 18 y.o
 • I'm currently focusing on Front End
 • im not Programming
 ```
@@ -11,10 +11,10 @@
 ___
 
 <p>Connect with me 👋</p>
-  <a href="https://instagram.com/aprigans_" target="_blank">
+  <a href="https://instagram.com/apriansy_h1" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/BOTINDO" target="_blank">
+  <a href="https://youtube.com/INDO48" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 <a href="https://wa.me/628811929177" target="_blank">
