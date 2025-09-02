@@ -26,5 +26,3 @@ ___
 <p>Github Statistics 💤</p>
 <img src="https://komarev.com/ghpvc/?username=Aprilia3&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Aprilia3" />
 <img src="https://github-profile-trophy.vercel.app/?username=Aprilia3&theme=onedark" />
-<img src="https://github.com/Aprilia3/github-stats/blob/master/generated/overview.svg" />
-<img src="https://github.com/Aprilia3/github-stats/blob/master/generated/languages.svg" />
